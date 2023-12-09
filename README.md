@@ -3,7 +3,7 @@
 # Hi 👋, I'm Pias Ahmed
 ## Web Developer
 
-Hello, I'm a MERN Stack Web Developer and Content Creator. specialized with HTML, CSS, JavaScript, React Js, Firebase, Tailwind, MongoDb Now currently learning Next JS. I enjoy working with ReactJS.
+Hello, I'm a MERN Stack Web Developer and Content Creator. specialized with HTML, CSS, JavaScript, React Js, Firebase, Tailwind, and MongoDb now learning Next JS. I enjoy working with ReactJS.
 
 Skills: HTML/CSS/JavaScript/React/Firebase/Tailwind/MongoDb/Next JS
 
